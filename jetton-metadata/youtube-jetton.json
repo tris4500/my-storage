@@ -1,0 +1,8 @@
+{
+  "image": "https://raw.githubusercontent.com/tris4500/my-storage/master/images/youtube-icon.webp",
+  "name": "Youtube Jetton",
+  "symbol": "YTB",
+  "description": "Jetton for Youtube",
+  "social_links": ["https://www.youtube.com/"],
+  "marketplace": "https://www.youtube.com/"
+}
