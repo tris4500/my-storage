@@ -1,0 +1,8 @@
+{
+  "image": "https://raw.githubusercontent.com/tris4500/my-storage/master/images/facebook-icon.png",
+  "name": "Facebook Jetton",
+  "symbol": "FB",
+  "description": "Jetton for Facebook",
+  "social_links": ["https://www.facebook.com/"],
+  "marketplace": "https://www.facebook.com/"
+}
